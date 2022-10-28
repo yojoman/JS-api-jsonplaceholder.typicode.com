@@ -1,0 +1,24 @@
+{
+  "name": "js-api-jsonplaceholder.typicode.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yojoman/JS-api-jsonplaceholder.typicode.com.git"
+  },
+  "author": "Pavel Abramuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yojoman/JS-api-jsonplaceholder.typicode.com/issues"
+  },
+  "homepage": "https://github.com/yojoman/JS-api-jsonplaceholder.typicode.com#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.1.0",
+    "supertest": "^6.3.1"
+  }
+}
